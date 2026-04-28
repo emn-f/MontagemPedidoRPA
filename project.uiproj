@@ -1,0 +1,6 @@
+{
+  "Name": "Processo de envio",
+  "ProjectType": "Process",
+  "Description": "Automação que calcula valor de pedidos de acordo com o tipo do clliente",
+  "MainFile": "Main.xaml"
+}
